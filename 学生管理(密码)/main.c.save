@@ -1,0 +1,11 @@
+#include"head.h"
+int main()
+{
+    int flag=1;
+    startmenu();
+    while(next1(choose('3'),&flag))
+    {
+        
+    }
+    return 0;
+}

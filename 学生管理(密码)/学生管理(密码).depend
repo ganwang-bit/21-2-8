@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1612601770 source:c:\users\1\desktop\c-c++\学生管理(密码)\main.c
+	"head.h"
+
+1612595872 c:\users\1\desktop\c-c++\学生管理(密码)\head.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<errno.h>
+
+1612601888 source:c:\users\1\desktop\c-c++\学生管理(密码)\fuction.c
+	"head.h"
+
